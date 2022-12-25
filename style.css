@@ -1,22 +1,21 @@
 img {
-    display: block;
-    width: 100%;
-   
+  display: block;
+  width: 100%;
 }
 
-.container { 
-    margin: 50px auto;
-    width: 738px; 
+.container {
+  margin: 50px auto;
+  width: 738px;
 }
-   
+
 .col {
-    border: 3px solid;
-    display:inline-block;
-    width: 300px;
-    padding: 20px; 
-    margin: 10px;
+  border: 3px solid;
+  display: inline-block;
+  width: 300px;
+  padding: 20px;
+  margin: 10px;
 }
 
 h2 {
-    color: rgb(4, 48, 109);
+  color: rgb(4, 48, 109);
 }
