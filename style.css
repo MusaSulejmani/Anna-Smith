@@ -1,20 +1,19 @@
 img {
     display: block;
     width: 100%;
+   
 }
 
-.container
-{
-    padding: 50px 0 0 200px;
-    margin: 0 auto;
-    display: flex;
+.container { 
+    margin: 50px auto;
+    width: 738px; 
 }
-
+   
 .col {
     border: 3px solid;
     display:inline-block;
-    width: 400px;
-    padding: 20px 20px;   
+    width: 300px;
+    padding: 20px; 
     margin: 10px;
 }
 
